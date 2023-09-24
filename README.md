@@ -10,7 +10,7 @@ The directory contains the:
 * Completed annotated workshop script (GettingStartedwR_FullWorkshop.pdf)
 * Slides presented (Slides_GettingStartedwR.pdf)
 * Custom reference sheet for concepts covered (Cheatsheet_GettingStartedwR.pdf)
-* Daily weather data from [Daymet](https://daymet.ornl.gov/) used in the workshop (Daymet_WeatherData_1980_2022.csv)
+* Daily weather data from [Daymet](https://daymet.ornl.gov/) used in the workshop (Daymet_data.csv)
 
 If you have any questions, please get in touch with madgicHelp@trentu.ca.
 
