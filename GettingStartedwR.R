@@ -305,7 +305,7 @@ Snow_Present_Ptbo_2021 <- c(TRUE, TRUE, TRUE, TRUE, FALSE, FALSE, FALSE,
 Snow_Present_Ptbo_2021
 
 # Vectors have the potential to get quite large, making them hard to see in the console
-# Therefore we can use functions to view smaller parts of the vector
+# Therefore, we can use functions to view smaller parts of the vector
 # head(): returns the first 6 values
 ______(MaxMonthtemp_C_Ptbo_2022, n = 6)
 
@@ -361,9 +361,9 @@ sd(MaxMonthtemp_C_Ptbo_2022, ______)
 # Data frames are constructed from vectors.
 # Specifically, each vector represents a single column in the data frame
 
-Ptbo_Temps <- data.frame(Year = rep(2021, 30),
-                         Month = rep("May", 30),
-                         Day = 1:30,
+Ptbo_Temps <- data.frame(Year = rep(2021, 21),
+                         Month = rep("May", 21),
+                         Day = 1:21,
                          MeanTemp_C = c(7.585, 6.33, 10.53, 12.32, 11.93, 11.9, 
                                         12.935, 13.395, 16.325, 18.035, 19.89, 
                                         21.22, 20.085, 15.875, 13.365, 18.945, 
@@ -376,7 +376,7 @@ Ptbo_Temps <- data.frame(Year = rep(2021, 30),
                                        21.73, 22.5, 25.71, 26.88, 27.63, 29.26, 
                                        24.44, 22.61, 21.11, 27.17, 24.29, 16.73, 
                                        10.76, 17.6, 19.13),
-                         Source = rep("Daymet", 30))
+                         Source = rep("Daymet", 21))
 
 # As data frames get large, it can be tricky to view them in the console
 # Instead use functions to show only parts of the data frame for quick reference:
