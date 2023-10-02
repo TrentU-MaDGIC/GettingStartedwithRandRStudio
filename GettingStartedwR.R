@@ -273,7 +273,7 @@ co2 # Atmospheric concentrations of CO2 are expressed in parts per million (ppm)
 
 # Array: A three dimensional (rows, columns, depth) structure with elements of the **same** data type
 # Array examples: 
-Titanic # the fate of passengers on the fatal maiden voyage of the ocean liner b
+Titanic # the fate of passengers on the fatal maiden voyage of the ocean liner ‘Titanic’, summarized according to economic status (class), sex, age and survival.
 iris3 # iris3 contains the measurements in centimeters of the variables sepal length and width and petal length and width, respectively, for 50 flowers from each of 3 species of iris
 
 # Data frame: A two dimensional (rows and columns) structure with elements of the **same and/or different** data types
