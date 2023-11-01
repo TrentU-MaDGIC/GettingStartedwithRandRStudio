@@ -227,21 +227,21 @@ ______ # install.packages() installs the package specified in quotations
 
 ______ # library() loads the specified package
 
-# Install and load the "xlsx" package with the package pane:
-# The "xlsx" package is used for importing and exporting Microsfot Excel workbooks
+# Install and load the "stringr" package with the package pane:
+# The "stringr" package is used for importing and exporting Microsfot Excel workbooks
 ## 1. Select the **Packages** tab in the bottom right pane of RStudio.
 ## 2. Click Install
-## 3. Enter "xlsx" in the "Packages (separate multiple with space or comma)" filed.
+## 3. Enter "stringr" in the "Packages (separate multiple with space or comma)" filed.
 ## 4. Click Install. If no errors are returned, the package is now installed.
 ## 5. Load the package by checking the corresponding box in the package page
 
 # Similar to functions, packages have help pages which are accessed through help()
 # Make you use specify it is a package! 
-help(package = "xlsx") 
+help(package = "stringr") 
 
 # Some packages also have official tutorials, known as Vignettes.
 # To view these tutorials, use browseVignettes()
-browseVignettes("xlsx") 
+browseVignettes("stringr") 
 
 ##### Challenge 4 ##### 
 # Install and load the package "beepr" by R code or package pane
