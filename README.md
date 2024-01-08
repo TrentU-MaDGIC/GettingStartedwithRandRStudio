@@ -1,4 +1,6 @@
-# GettingStartedwithRandRStudio
+# Getting Started with R and RStudio
+
+THIS REPOSITORY IS ARCHIVED. FOR THE MOST RECENT CONTENT PLEASE SEE https://github.com/TrentU-MaDGIC/RProgrammingBasics
 
 This repository contains class materials built by Trent University Library and Archives' Maps, Data and Government Information Centre for a two hour introductory R workshop.
 
